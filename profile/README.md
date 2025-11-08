@@ -17,8 +17,8 @@ We explore how data infrastructure, agentic systems, and governance frameworks c
 ### 🧠 Featured Projects
 | Project | Description |
 |----------|--------------|
-| [**AI Architect**](https://github.com/rodrigo-fonseca-oliveira/ai-architect) | Framework for secure, auditable LLM workflows |
-| [**Fin Feast**](https://github.com/rodrigo-fonseca-oliveira/fin-feast) | Feature store for quantitative data and trading analytics |
+| [**AI Architect**](https://github.com/bridge-intelligence-lab/ai-architect) | Framework for secure, auditable LLM workflows |
+| [**Fin Feast**](https://github.com/bridge-intelligence-lab/fin-feast) | Feature store for quantitative data and trading analytics |
 | **Agentic Portfolio Manager (WIP)** | Multi-agent reinforcement learning and LLM integration prototype |
 
 ---
@@ -27,7 +27,7 @@ We explore how data infrastructure, agentic systems, and governance frameworks c
 **Rodrigo Oliveira**  
 📍 Toronto · Global Collaboration  
 
-[LinkedIn](https://linkedin.com/in/rodrigo-oliveira-ca) · [GitHub](https://github.com/rodrigo-fonseca-oliveira)  
+[LinkedIn](https://linkedin.com/in/buildtheedge) · [GitHub](https://github.com/buildtheedge)  
 ✉️ rodrigo@bridgeintelligence.ca  
 
 ---
