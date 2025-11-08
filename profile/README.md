@@ -27,7 +27,7 @@ We explore how data infrastructure, agentic systems, and governance frameworks c
 **Rodrigo Oliveira**  
 📍 Toronto · Global Collaboration  
 
-[LinkedIn](https://linkedin.com/in/buildtheedge) · [GitHub](https://github.com/buildtheedge)  
+[LinkedIn](https://linkedin.com/in/buildtheedge) · [GitHub](https://github.com/rodrigo-fonseca-oliveira)  
 ✉️ rodrigo@bridgeintelligence.ca  
 
 ---
